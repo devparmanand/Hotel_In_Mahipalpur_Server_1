@@ -7,7 +7,7 @@ async function getConnect() {
         console.log("Database is Connected from him_backend_1");
         
     })
-    .catch((error)=>{
+     .catch((error)=>{
         console.log(error);
         
     })
